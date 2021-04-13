@@ -92,5 +92,246 @@ http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEducativadePortoAlegre.br" tvg-name="TV Educativa de Porto Alegre" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre (1080p)
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-2019080717
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-cabecalho-5757-2019080717
 
+tvg -id = "" tvg-logo= "" group-title ="", TV CULTURA DE  RN
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w2091134564.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV AISH BRASIL
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w679576088.m3u8https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w679576088.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV TREMENBE
+https://5e36c064a2f6a.streamlock.net:1936/8380/8380/chunklist_w419010099.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TVT
+https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gx3p3wcP7tgZ-3hTY-KwYRo)/dm/3/x6ph7x7/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV POCOS
+https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?37a15b0ab3181fec67b9952147d0fda4
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",  BOM TV
+http://streaming.wcserver.com.br/LiveApp/streams/164232247811006497671478.m3u8
+
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV CIDADE 10
+https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(FnSlr7bIjes)r(fVR9ug)a(sQsHVw)p(d(2xc)k(q8Y)m(bUsM_Zc1YVzfjkTrMaQ04w)n(a(lFIHIw)s(fEs)'a(YOIWjA)s(FUQ)))s(s(ljo)b(WmabEod_axkmlXrEvD4IB_7IKpeH2jVnisVJ_lxPhS9ZUhq5xXd-Spg0HNySb_SlsJxvzqrx3hYgACmhlw)'s(158)b(0aqFX2BSgENHqXatzevfh9uLZfUZHoHwlHL_ySO9mpb167EOx93RZlZrFsRl_-ZNNVib-X6W_Kgy-Qm79_TI7Yx3kX4d2jphuwqODb08)'s(Hzw)b(m-07-7Oq))m(0))/1_index.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", FTG
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w237174074_b1544100_sleng.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV A FOLHA
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w237174074_b1544100_sleng.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV BELTRAO
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_w1582557690.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV VALE DO ARUARA
+https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/chunklist_w520331953.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV ST
+https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/playlist.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV MEGA BRASIL
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/chunklist_w1354125592_b1300000.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV FRANCA 
+https://5b7f3c45ab7c2.streamlock.net/8124/8124/playlist.m3u8?DVR
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", STZ TV
+https://hls.brasilstream.com.br/live/stztv/stztv/mono.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", FORG TV
+https://stream.furg.br/hls/furgtv_480p.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", CLASSIC TV
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index_720p30.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", UFSC TV
+http://150.162.188.10:8080/hls/1_hi.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", FAAP TV
+http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1979148373.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV FLORIPA
+https://videos-fms.jwpsrv.com/0_60728952_0x647a872e04fedc9790ebdbe46921906e2a62296d/content/conversions/WaFRuzY2/videos/t5SX9Xbb-31802950.mp4.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", FMU TV
+https://srv3.zcast.com.br/juliocesar4903/juliocesar4903/chunklist_w984231855.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", UAA TV 
+https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqoEzJGVnx69Vn9DNW0zE3SE)/dm/3/x7u0jgi/s/live-3.m3u8#cell=lnyc&qos_vpart=1
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV  FANO ITALIA
+https://streamlive17.arcapuglia.it:8080/live/fanotv/index.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV UN ESTADOS UNIDOS
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV CINE 
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1721045866.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", NOVA PARAIBA
+https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/chunklist_w486342754.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", WM TV
+https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w132068568.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV O POVO
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w379587807.m3u8
+
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", VELHA CAP TV
+https://srv3.zcast.com.br/cleto6155/cleto6155/chunklist_w1465127059.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", ORB TV 
+https://srv1.zcast.com.br/antonio8877/antonio8877/chunklist_w1963003883.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", LIFE CHANNEL BRASIL
+https://lifechannelbrasil.netvm.com.br/viatvnet/aovivo/chunks.m3u8?nimblesessionid=224712
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", CBN TV US
+https://5e36c064a2f6a.streamlock.net:1936/8576/8576/chunklist_w140069474.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV CAPITAL 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1503806231.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TEBEO FRANÇA
+https://edge-live-ger1.ovstream.com/hls/11/source.m3u8?token=live_11_6766089e1aeedf802dfd6bc4f2de5811
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", CGN CHINA
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV ADO 
+https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1987335319.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1500157231.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w976455887.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV GUARA RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w818025624.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV NOVA NODESTE
+https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", RADIO 105 TV
+https://vod06-mediaset-it.akamaized.net/cortesia/GEOLOCK-DEF_2.mp4
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV DIARIO NOSRDESTE
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQEmpfIonhehSwtGqxUXBpY)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV BROONBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2012509738.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV ITAPEMIRIN
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV UNI SUL
+https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", TV MAIS NEWS
+https://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/uymfm3v51659vk7t_source1618108830580/chunklist.m3u8
+
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title = "",tv
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CANAL UKE AO VIVO
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CANAL 29 AO VIVO
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w620262435.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", CANAL DO BOI
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/428167370837001681613970.m3u8?token=undefined
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CANAL RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",HISTORY LAB
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w1951598495.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",HOPE CHANNEL
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/5d6c7f68a82b4c4885014e6f813b7bd9/chunklist_b2592000.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title =""CHANNEL 6
+https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/video_1.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",24 CHANNEL
+http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",FILMES
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/chunklist_w1447238289.m3u8
+
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",BONS TEMPOS
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w173052446.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",SERIES RETRÔ
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w825697125.m3u8
+
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV AO VIVO
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", DESTAQUE GASTRONOMIA TV
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunklist_w1355857953.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",FILMES GOSPEL
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1899392475.m3u8
+
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CINE TRIANON
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1949414442.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CARTOON GOSPEL
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1949414442.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",FILMES CASSICOS AO VIVO
+http://stmv2.euroti.com.br:1935/classique/classique/chunklist_w900509978.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",FILMES CASSICOS AO VIVO
+http://stmv2.euroti.com.br:1935/classique/classique/chunklist_w900509978.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV MACHETE AO VIVO
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1699437635.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV JAPI AO VIVO
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w690730305.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",  TEEM .NET
+https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w26400895.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",VINTAGE TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w2112937041.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CARIOCA TV FILMES
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w547844764.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CLASSIC TV
+http://stmv2.euroti.com.br:1935/classique/classique/chunklist_w1450200563.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",BARREIROS WEB TV
+http://stmv2.euroti.com.br:1935/classique/classique/chunklist_w1450200563.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV MEGA CINE
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w689020444.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV MEGA CINE
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w689020444.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",J.SD
+
+https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist_w117028124.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",DESTAQUE TV
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w921
